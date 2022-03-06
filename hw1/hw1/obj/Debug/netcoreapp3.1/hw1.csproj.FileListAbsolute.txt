@@ -1,0 +1,13 @@
+/Users/khaledalenezi/Documents/GitHub/gamedev-hw1/hw1/hw1/obj/Debug/netcoreapp3.1/hw1.csproj.AssemblyReference.cache
+/Users/khaledalenezi/Documents/GitHub/gamedev-hw1/hw1/hw1/obj/Debug/netcoreapp3.1/hw1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khaledalenezi/Documents/GitHub/gamedev-hw1/hw1/hw1/obj/Debug/netcoreapp3.1/hw1.AssemblyInfoInputs.cache
+/Users/khaledalenezi/Documents/GitHub/gamedev-hw1/hw1/hw1/obj/Debug/netcoreapp3.1/hw1.AssemblyInfo.cs
+/Users/khaledalenezi/Documents/GitHub/gamedev-hw1/hw1/hw1/obj/Debug/netcoreapp3.1/hw1.csproj.CoreCompileInputs.cache
+/Users/khaledalenezi/Documents/GitHub/gamedev-hw1/hw1/hw1/bin/Debug/netcoreapp3.1/hw1.deps.json
+/Users/khaledalenezi/Documents/GitHub/gamedev-hw1/hw1/hw1/bin/Debug/netcoreapp3.1/hw1.runtimeconfig.json
+/Users/khaledalenezi/Documents/GitHub/gamedev-hw1/hw1/hw1/bin/Debug/netcoreapp3.1/hw1.runtimeconfig.dev.json
+/Users/khaledalenezi/Documents/GitHub/gamedev-hw1/hw1/hw1/bin/Debug/netcoreapp3.1/hw1.dll
+/Users/khaledalenezi/Documents/GitHub/gamedev-hw1/hw1/hw1/bin/Debug/netcoreapp3.1/hw1.pdb
+/Users/khaledalenezi/Documents/GitHub/gamedev-hw1/hw1/hw1/obj/Debug/netcoreapp3.1/hw1.dll
+/Users/khaledalenezi/Documents/GitHub/gamedev-hw1/hw1/hw1/obj/Debug/netcoreapp3.1/hw1.pdb
+/Users/khaledalenezi/Documents/GitHub/gamedev-hw1/hw1/hw1/obj/Debug/netcoreapp3.1/hw1.genruntimeconfig.cache
